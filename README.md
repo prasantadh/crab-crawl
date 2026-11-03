@@ -13,3 +13,7 @@ Upcoming resources I am looking into:
 - [Rust Atomics and Locks](https://mara.nl/atomics/)
 - [Crafting Interpreters](https://craftinginterpreters.com/)
 
+# Structure
+- [./strsplit/] -> [Crust of Rust: Lifetime Annotations](https://www.youtube.com/watch?v=rAl-9HwD858&list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa&index=1&pp=iAQB)
+
+
