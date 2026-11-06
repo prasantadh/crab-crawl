@@ -16,5 +16,6 @@ Upcoming resources I am looking into:
 # Structure
 - [strsplit](./strsplit/) -> [Crust of Rust: Lifetime Annotations](https://www.youtube.com/watch?v=rAl-9HwD858&list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa&index=1&pp=iAQB)
 - [vecmac](./vecmac/) -> [Crust of Rust: Declarative Macros](https://www.youtube.com/watch?v=q6paRBbLgNw&list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa&index=3)
+- [boks](./boks/) -> [Crust of Rust: The Drop Check](https://www.youtube.com/watch?v=TJOFSMpJdzg&list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa&index=8)
 
 
